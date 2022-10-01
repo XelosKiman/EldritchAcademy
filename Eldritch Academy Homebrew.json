@@ -6929,8 +6929,7 @@
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Wisdom is your spellcasting ability for your Mage spells. The power of your spells draws upon your devotion and attunement to the magical weave.",
-						"You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.",
+						"When you first take a level in this class, you select your spellcasting ability for your spells from Intelligence, Wisdom or Charisma (this must be the same ability you chose for saving throw proficiency). You use this ability score whenever a spell refers to your spellcasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -7540,7 +7539,7 @@
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Charisma is your spellcasting ability for your Witch spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Witch spell you cast and when making an attack roll with one.",
+						"When you first take a level in this class, you select your spellcasting ability for your spells from Wisdom or Charisma. You use this ability score whenever a spell refers to your spellcasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -7895,8 +7894,7 @@
 					"type": "entries",
 					"name": "Manifesting Ability",
 					"entries": [
-						"Intelligence is your manifesting ability for your psion spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your manifesting ability.",
-						"In addition, you use your Intelligence modifier when setting the saving throw DC for a psion spell you manifest and when making an attack roll with one.",
+						"When you first take a level in this class, you select your manifesting ability for your spells from Intelligence or Charisma. You use this ability score whenever a spell refers to your manifesting ability. In addition, you use this ability score modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -8499,9 +8497,9 @@
 				},
 				{
 					"type": "entries",
-					"name": "Spellcasting Ability",
+					"name": "Mimic Ability",
 					"entries": [
-						"Constitution is a Hermetic’s ability for using mimics. They use their Constitution  modifier when setting the saving throw DC for mimics they use and when making an attack roll with one.",
+						"When you first take a level in this class, you select your spellcasting ability for your spells from Constitution, Intelligence, Wisdom or Charisma. You use this ability score for using mimics. In addition, you use this ability score modifier when setting the saving throw DC for mimics you use and when making an attack roll with one.",
 						{
 							"type": "abilityDc",
 							"name": "Mimic",
