@@ -11850,6 +11850,7 @@
 			"name": "Aeromancer",
 			"shortName": "Aeromancer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/air/wind-tornado-cyclone-white.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Aeromancer|Mage|KimansEldritchAcademy|Aeromancer|KimansEldritchAcademy|1",
@@ -11864,6 +11865,7 @@
 			"name": "Apothecary",
 			"shortName": "Apothecary",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/consumables/potions/potion-flask-corked-green.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Apothecary|Mage|KimansEldritchAcademy|Apothecary|KimansEldritchAcademy|1",
@@ -11878,6 +11880,7 @@
 			"name": "Arcane Armorer",
 			"shortName": "Arcane Armorer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/equipment/chest/breastplate-layered-grey.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Armor Specialist|Mage|KimansEldritchAcademy|Arcane Armorer|KimansEldritchAcademy|1",
@@ -11893,6 +11896,7 @@
 			"name": "Archmage",
 			"shortName": "Archmage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/control/silhouette-hold-beam-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Archmage|Mage|KimansEldritchAcademy|Archmage|KimansEldritchAcademy|1",
@@ -11907,6 +11911,7 @@
 			"name": "Chaos Mage",
 			"shortName": "Chaos Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/sonic/projectile-sound-rings-wave.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Chaos Mage|Mage|KimansEldritchAcademy|Chaos Mage|KimansEldritchAcademy|1",
@@ -11921,6 +11926,7 @@
 			"name": "Eldritch Archer",
 			"shortName": "Eldritch Archer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/weapons/ammunition/arrowhead-glowing-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Eldritch Archer|Mage|KimansEldritchAcademy|Eldritch Archer|KimansEldritchAcademy|1",
@@ -11935,6 +11941,7 @@
 			"name": "Electromancer",
 			"shortName": "Electromancer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/lightning/bolt-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Electromancer|Mage|KimansEldritchAcademy|Electromancer|KimansEldritchAcademy|1",
@@ -11949,6 +11956,7 @@
 			"name": "Geomancer",
 			"shortName": "Geomancer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/earth/projectile-spiked-stone-boulder-orange.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Geomancer|Mage|KimansEldritchAcademy|Geomancer|KimansEldritchAcademy|1",
@@ -11963,6 +11971,7 @@
 			"name": "Hydromancer",
 			"shortName": "Hydromancer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/water/vortex-water-whirlpool.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Hydromancer|Mage|KimansEldritchAcademy|Hydromancer|KimansEldritchAcademy|1",
@@ -11977,6 +11986,7 @@
 			"name": "Lore Mage",
 			"shortName": "Lore Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/sundries/books/book-worn-purple.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Lore Mage|Mage|KimansEldritchAcademy|Lore Mage|KimansEldritchAcademy|1",
@@ -11991,6 +12001,7 @@
 			"name": "Mind Mage",
 			"shortName": "Mind Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/perception/hand-eye-fire-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Mind Mage|Mage|KimansEldritchAcademy|Mind Mage|KimansEldritchAcademy|1",
@@ -12005,6 +12016,7 @@
 			"name": "Primal Mage",
 			"shortName": "Primal Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/nature/leaf-juggle-humanoid-green.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Primal Mage|Mage|KimansEldritchAcademy|Primal Mage|KimansEldritchAcademy|1",
@@ -12019,6 +12031,7 @@
 			"name": "Pyromancer",
 			"shortName": "Pyromancer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/fire/flame-burning-embers-orange.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Pyromancer|Mage|KimansEldritchAcademy|Pyromancer|KimansEldritchAcademy|1",
@@ -12033,6 +12046,7 @@
 			"name": "Rage Mage",
 			"shortName": "Rage Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/skills/wounds/injury-face-impact-orange.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Rage Mage|Mage|KimansEldritchAcademy|Rage Mage|KimansEldritchAcademy|1",
@@ -12047,6 +12061,7 @@
 			"name": "Red Wizard",
 			"shortName": "Red Wizard",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/symbols/ring-circle-smoke-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Red Wizard|Mage|KimansEldritchAcademy|Red Wizard|KimansEldritchAcademy|1",
@@ -12061,6 +12076,7 @@
 			"name": "Sage",
 			"shortName": "Sage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/life/cross-area-circle-green-white.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Sage|Mage|KimansEldritchAcademy|Sage|KimansEldritchAcademy|1",
@@ -12075,6 +12091,7 @@
 			"name": "Scrollmaster",
 			"shortName": "Scrollmaster",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/sundries/scrolls/scroll-bound-sealed-red-gold.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Scrollmaster|Mage|KimansEldritchAcademy|Scrollmaster|KimansEldritchAcademy|1",
@@ -12089,6 +12106,7 @@
 			"name": "Spell Thief",
 			"shortName": "Spell Thief",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/weapons/daggers/dagger-magical-glowing-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Spell Thief|Mage|KimansEldritchAcademy|Spell Thief|KimansEldritchAcademy|1",
@@ -12103,6 +12121,7 @@
 			"name": "Spellsword",
 			"shortName": "Spellsword",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/symbols/runes-etched-steel-blade.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Spellsword|Mage|KimansEldritchAcademy|Spellsword|KimansEldritchAcademy|1",
@@ -12117,6 +12136,7 @@
 			"name": "Summoner",
 			"shortName": "Summoner",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/unholy/silhouette-evil-horned-giant.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Summoner|Mage|KimansEldritchAcademy|Summoner|KimansEldritchAcademy|1",
@@ -12131,6 +12151,7 @@
 			"name": "Universal Mage",
 			"shortName": "Universal Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/equipment/head/hat-pointed-leather-brown.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Universal Mage|Mage|KimansEldritchAcademy|Universal Mage|KimansEldritchAcademy|1",
@@ -12145,6 +12166,7 @@
 			"name": "Wand Mage",
 			"shortName": "Wand Mage",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/weapons/wands/wand-gem-violet.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Wand Mage|Mage|KimansEldritchAcademy|Wand Mage|KimansEldritchAcademy|1",
@@ -12159,6 +12181,7 @@
 			"name": "Egoist",
 			"shortName": "Egoist",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/control/silhouette-hold-change-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Egoist|Psion|KimansEldritchAcademy|Egoist|KimansEldritchAcademy|1",
@@ -12172,6 +12195,7 @@
 			"name": "Kineticist",
 			"shortName": "Kineticist",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/control/energy-stream-link-spiral-blue.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Kineticist|Psion|KimansEldritchAcademy|Kineticist|KimansEldritchAcademy|1",
@@ -12185,6 +12209,7 @@
 			"name": "Nomad",
 			"shortName": "Nomad",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "modules/plutonium/media/icon/spell/phb-teleport.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Nomad|Psion|KimansEldritchAcademy|Nomad|KimansEldritchAcademy|1",
@@ -12198,6 +12223,7 @@
 			"name": "Seer",
 			"shortName": "Seer",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "modules/plutonium/media/icon/spell/phb-divine-word.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Seer|Psion|KimansEldritchAcademy|Seer|KimansEldritchAcademy|1",
@@ -12211,6 +12237,7 @@
 			"name": "Telepath",
 			"shortName": "Telepath",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/perception/third-eye-blue-red.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Telepath|Psion|KimansEldritchAcademy|Telepath|KimansEldritchAcademy|1",
@@ -12224,6 +12251,7 @@
 			"name": "Wilder",
 			"shortName": "Wilder",
 			"source": "KimansEldritchAcademy",
+			"foundryImg": "icons/magic/control/debuff-energy-hold-pink.webp",
 			"page": 1,
 			"subclassFeatures": [
 				"Wilder|Psion|KimansEldritchAcademy|Wilder|KimansEldritchAcademy|1",
