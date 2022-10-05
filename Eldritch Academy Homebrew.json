@@ -3874,7 +3874,7 @@
 
 
 		{
-			"name": "Dinosoar Student",
+			"name": "General Student",
 			"isNpc": true,
 			"source": "KimansEldritchAcademy",
 			"page": 0,
@@ -3921,17 +3921,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -3997,17 +3986,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4072,17 +4050,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4148,17 +4115,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4224,17 +4180,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4300,17 +4245,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4376,17 +4310,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4452,17 +4375,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4528,17 +4440,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4604,17 +4505,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4680,17 +4570,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4756,17 +4635,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4831,17 +4699,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4906,17 +4763,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -4982,17 +4828,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5058,17 +4893,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5134,17 +4958,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5210,17 +5023,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5286,17 +5088,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5362,17 +5153,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5438,17 +5218,6 @@
 				"headerEntries": [
 					"The student casts one of the following spells, using Intelligence as the spellcasting ability (spell save {@dc 12}):"
 				],
-				"will": [
-					"{@spell gust|XGE}",
-					"{@spell true strike}"
-				],
-				"daily": {
-					"1": [
-						"{@spell color spray}",
-						"{@spell entangle}",
-						"{@spell grease}"
-					]
-				},
 				"ability": "int",
 				"displayAs": "action",
 				"type": "spellcasting"
@@ -5464,6 +5233,126 @@
 			],
 			"hasToken": true,
 			"tokenUrl": "images/tokens/Chapter%201/Roommate%20Students/Zellix.png"
+		},
+		{
+			"name": "Chadwick Hardy Merryweather III",
+			"isNamedCreature": true,
+			"source": "KimansEldritchAcademy",
+			"page": 1,
+			"size": [
+				"T"
+			],
+			"type": {
+				"type": "beast"
+			},
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 17,
+					"from": [
+						"natural"
+					]
+				}
+			],
+			"hp": {
+				"average": 91,
+				"formula": "14d6 + 42"
+			},
+			"speed": {
+				"walk": 15,
+				"fly": 60
+			},
+			"str": 12,
+			"dex": 20,
+			"con": 16,
+			"int": 13,
+			"wis": 11,
+			"cha": 10,
+			"save": {
+				"dex": "+9",
+				"int": "+5"
+			},
+			"skill": {
+				"acrobatics": "+9",
+				"perception": "+4",
+				"persuasion": "+4",
+				"stealth": "+13"
+			},
+			"passive": 14,
+			"senses": [
+				"darkvision 120 ft."
+			],
+			"languages": [
+				"All"
+			],
+			"cr": "11",
+			"trait": [
+				{
+					"name": "Flyby",
+					"entries": [
+						"Chadwick doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+					]
+				},
+				{
+					"name": "Keen Hearing and Sight",
+					"entries": [
+						"Chadwick has advantage on Wisdom ({@skill Perception}) checks that rely on hearing or sight."
+					]
+				},
+				{
+					"name": "Assassinate",
+					"entries": [
+						"During his first turn, Chadwick has advantage on attack rolls against any creature that hasn't taken a turn. Any hit Chadwick scores against a {@quickref Surprise|PHB|3|0|surprised} creature is a critical hit."
+					]
+				},
+				{
+					"name": "Evasion",
+					"entries": [
+						"If Chadwick is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, Chadwick instead takes no damage if he succeeds on the saving throw, and only half damage if he fails."
+					]
+				},
+				{
+					"name": "Nimbleness",
+					"entries": [
+						"Chadwick can move through the space of any creature that is of a size larger than his."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"Chadwick makes three Talon attacks."
+					]
+				},
+				{
+					"name": "Talon",
+					"entries": [
+						"{@atk mw} {@hit 9} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d6 + 5}) piercing damage, and the target must make a {@dc 15} Constitution saving throw, taking 24 ({@damage 7d6}) poison damage on a failed save, or half as much damage on a successful one."
+					]
+				}
+			],
+			"traitTags": [
+				"Flyby",
+				"Keen Senses"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"I",
+				"P"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasToken": true,
+			"tokenUrl": "images/tokens/Chapter%202/2.%20Chadwick.png"
 		}
 	],
 	"item": [{
@@ -11607,6 +11496,23 @@
 			"name": "Careful Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11618,6 +11524,19 @@
 			"name": "Chain Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11631,6 +11550,22 @@
 			"name": "Delay Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 2
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 2
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 2
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11652,6 +11587,23 @@
 			"name": "Distant Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11664,6 +11616,23 @@
 			"name": "Empowered Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11676,6 +11645,23 @@
 			"name": "Extended Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11687,6 +11673,22 @@
 			"name": "Focused Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 3
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 3
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 3
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11698,6 +11700,23 @@
 			"name": "Heightened Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 3
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 3
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 3
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11709,6 +11728,19 @@
 			"name": "Maximize Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11720,6 +11752,19 @@
 			"name": "Mimic Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11731,6 +11776,23 @@
 			"name": "Quickened Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 2
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 2
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 2
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11742,6 +11804,22 @@
 			"name": "Reactive Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 2
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 2
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 2
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11753,6 +11831,22 @@
 			"name": "Reshape Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 3
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 3
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 3
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11765,6 +11859,22 @@
 			"name": "Seeking Spell",
 			"page": 66,
 			"source": "TCE",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 2
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 2
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 2
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11777,6 +11887,19 @@
 			"name": "Spectral Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11789,6 +11912,23 @@
 			"name": "Subtle Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11800,6 +11940,22 @@
 			"name": "Targeted Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 2
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 2
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 2
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11812,6 +11968,22 @@
 			"name": "Transmuted Spell",
 			"page": 66,
 			"source": "TCE",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points",
+					"amount": 1
+				},
+				{
+					"name": "Metamagic Points",
+					"amount": 1
+				},
+				{
+					"name": "Metapsionic Points",
+					"amount": 1
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11823,6 +11995,20 @@
 			"name": "Twinned Spell",
 			"page": 102,
 			"source": "PHB",
+			"srd": true,
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
@@ -11835,6 +12021,19 @@
 			"name": "Widen Spell",
 			"page": 1,
 			"source": "KimansEldritchAcademy",
+			"isClassFeatureVariant": true,
+			"foundryImg": "icons/magic/air/air-wave-gust-blue.webp",
+			"consumes": [
+				{
+					"name": "Sorcery Points"
+				},
+				{
+					"name": "Metamagic Points"
+				},
+				{
+					"name": "Metapsionic Points"
+				}
+			],
 			"featureType": [
 				"MM"
 			],
